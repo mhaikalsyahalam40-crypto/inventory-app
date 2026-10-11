@@ -1,0 +1,18 @@
+# File konfigurasi dan rahasia
+.env
+.env.*
+!.env.example
+
+# File backup database lokal
+inventory_db_backup.sql
+inventory_db_backup.sql.sql
+
+# File pengujian sementara
+cek.php
+test_connection.php
+create_admin.php
+
+# File sistem
+.DS_Store
+Thumbs.db
+/public/test.php
